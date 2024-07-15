@@ -30,7 +30,7 @@ body {
 
 .box .imagem {
 	display: block;
-	background: #979797 url(./images/image-qr-code.png) no-repeat;
+	background: #979797 url(../images/image-qr-code.png) no-repeat;
 	background-size: cover;
 	background-position: center center;
 	width: 288px;
